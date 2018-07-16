@@ -1,0 +1,6 @@
+framework module QYVersionUpdating {
+  umbrella header "QYVersionUpdating-umbrella.h"
+
+  export *
+  module * { export * }
+}

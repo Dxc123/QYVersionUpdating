@@ -1,0 +1,6 @@
+framework module Pods_QYVersionUpdating_Tests {
+  umbrella header "Pods-QYVersionUpdating_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
