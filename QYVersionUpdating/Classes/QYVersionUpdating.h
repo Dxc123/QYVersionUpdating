@@ -15,7 +15,7 @@
 typedef void(^VersionUpdatingBlock)(NSString *currentVersion,NSString *appstoreVersion, NSString *openUrl,BOOL isUpdate);
 
 /**
- 检测更新版本：appId，bundelId，随便传一个 或者都传nil
+ 检测更新版本：APPID、BundleId，随便传一个 或者都传nil
 
  */
 +(void)qy_versionUpdatingWithAPPID:(NSString *)appId withBundleId:(NSString *)bundelId block:(VersionUpdatingBlock)block;
