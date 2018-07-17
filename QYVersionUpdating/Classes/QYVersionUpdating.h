@@ -1,6 +1,6 @@
 //
 //  QYVersionUpdating.h
-//  CarPooling
+//  QYVersionUpdating
 //
 //  Created by Dxc_iOS on 2018/6/12.
 //  Copyright © 2018年 代星创. All rights reserved.
